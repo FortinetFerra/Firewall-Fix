@@ -1,0 +1,6 @@
+How does this work?
+
+Clone the Repository: https://github.com/fortinetferra/firewall-port-fixer.git
+Navigate to the Repository: cd firewall-port-fixer
+Run the code (make sure you are sudo): 
+    python firewall_port_fixer.py
